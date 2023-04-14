@@ -35,7 +35,7 @@ Add the ability to show the solution to _any_ maze currently shown on the screen
 ## Cave Generation
 
 Add cave generation using a cellular automaton
-- The user selects the file that describes the cave according to the format described [above](#caves-description)
+- The user selects the file that describes the cave
 - Use a separate window or tab in the user interface to display the caves
 - Maximum size of the cave is 50 x 50
 - The loaded cave must be rendered on the screen in a field of 500 x 500 pixels
